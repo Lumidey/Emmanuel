@@ -1,0 +1,173 @@
+.first{
+    background-image: url(./projectimages/image-header.jpg);
+    background-repeat: no-repeat;
+    background-size: 1500px 1000px;
+    background-position: center;
+   
+}
+.class1{
+    text-align: center;
+    font-size: large;
+    color:white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding-bottom: 350px;
+    margin: 200px;
+}
+
+.head1{
+    color: white;
+    font-size: medium;
+    margin-bottom: 10px;
+    padding: 10px;
+  
+}
+.transform{
+    border: 2px solid white;
+    text-align: justify;
+    width: 50%;
+    padding: 100px;
+    margin-top: 100px;
+      
+}
+.eggroll{
+    display: flex;
+    padding-top: 0px;
+    margin-top: -300px;
+
+    
+}
+.egg{
+    margin-top:100px;
+}
+.cup{
+    
+    margin-right: 10px;
+   margin-top: -4px;
+   margin-left: -17px;
+
+   
+
+}
+.standout{
+    border: 2px solid white;
+    text-align: justify;
+    width: 50%;
+    padding: 100px;
+    margin-top: 100px;
+
+}
+.standoutrow{
+display: flex;
+padding-right: 2px;
+
+
+}
+.graphic{
+    border: 2px solid white;
+    text-align: justify;
+    width: 80%;
+    padding: 100px;
+    margin-top: -10px;
+    background-image: url(./projectimages/image-graphic-design.jpg);
+    background-repeat:no-repeat ;
+    padding-bottom: 100px;
+    height: 250px;
+    margin-left: 4px;
+    padding-right: 2px;
+    margin-right: -70px;
+    
+    
+    
+
+}
+.photography{
+    border: 2px solid white;
+    text-align: justify;
+    width: 80%;
+    padding: 100px;
+    margin-top: -105px;
+    background-image: url(./projectimages/image-photography.jpg);
+    background-repeat: no-repeat;
+    padding-bottom: 100px;
+    height: 250px;
+    margin-top: -10px;
+    margin-left: 125px;
+
+}
+.graphoto{
+    display: flex;
+    justify-content: unset;
+}
+.testimonial{
+    text-align: center;
+    color: grey;
+    margin-top: 50px;
+}
+.emily{
+    text-align: center;
+    font-size: xx-large;
+    
+}
+.thomas{
+    text-align: center;
+}
+.businessowner{
+    text-align: center;
+}
+.staffs{
+    display: flex;
+    align-items: center;
+    margin: 20px;
+    padding: 100px;
+    justify-content: space-between;
+   
+}
+footer{
+    word-spacing: 15px;
+    text-align: center;
+}
+.downbelow{
+text-align: center;
+line-height: 30px;
+background-color: rgb(43, 190, 110);
+margin-top: -22px;
+
+
+}
+.footerspace{
+    letter-spacing: 15px;
+}
+/* body{
+   
+    background-color: whitesmoke;
+} */
+.firstdiv{
+    
+    width: 35%;
+    display: flex;
+    justify-content: space-around;
+    float: right;
+    text-decoration: none;
+   
+}
+a{
+    text-decoration: none;
+    padding: 20px;
+    color: white;
+}
+.main{
+    display: inline-block;
+    width: 100%;
+    height: 400px;
+}
+
+
+
+
+
+    
+
+
+ 
+
+
